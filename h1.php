@@ -12,5 +12,7 @@
 		<h1>hola</h1>
 <img src="https://www.w3.org/Style/Examples/011/captura15.png">
 	</div>
+	<div id=valen>HOLIWI GENTE</div>
+
 </body>
 </html>
